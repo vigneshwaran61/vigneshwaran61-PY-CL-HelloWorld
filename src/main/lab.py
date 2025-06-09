@@ -12,4 +12,4 @@ class Lab:
         This method currently returns "Your turn!". Instead, it should return
         "Hello, World!". A test case will check if the behavior is as expected.
         """
-        return "Your turn!"
+        return "Hello, World!"
